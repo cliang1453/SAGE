@@ -1,0 +1,6 @@
+04/28/2021 11:37:52 Task mrpc
+04/28/2021 11:37:52 /root/data/mtdnn/canonical_data/roberta-large/mrpc_test_labeled.json
+04/28/2021 11:37:53 Task sst
+04/28/2021 11:37:53 /root/data/mtdnn/canonical_data/roberta-large/sst_test_labeled.json
+04/28/2021 11:37:53 Task stsb
+04/28/2021 11:37:53 /root/data/mtdnn/canonical_data/roberta-large/stsb_test_labeled.json

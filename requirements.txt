@@ -1,0 +1,17 @@
+numpy
+torch==1.5.0
+tqdm
+colorlog
+boto3
+pytorch-pretrained-bert==v0.6.0
+regex
+scikit-learn
+pyyaml
+pytest
+sentencepiece
+tensorboardX
+tensorboard
+future
+fairseq
+seqeval==0.0.12
+git+https://github.com/huggingface/transformers
