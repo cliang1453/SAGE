@@ -14,4 +14,4 @@ tensorboard
 future
 fairseq
 seqeval==0.0.12
-git+https://github.com/huggingface/transformers
+transformers==4.6.0
